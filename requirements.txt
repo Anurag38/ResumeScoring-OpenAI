@@ -163,3 +163,4 @@ urllib3==2.2.1
 validators==0.28.1
 wcwidth==0.2.13
 yarl==1.9.4
+langchain_openai
