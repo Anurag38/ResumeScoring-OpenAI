@@ -70,3 +70,5 @@ if submit:
         # Display the results
         st.write("**Score:**", response["Score"])
         st.write("**Explanation:**", response["Explanation"])
+    else:
+        st.write("PLEASE UPLOAD A RESUME")
